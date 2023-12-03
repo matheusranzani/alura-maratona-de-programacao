@@ -1,5 +1,3 @@
-package Problema_42;
-
 import java.util.Scanner;
 
 public class Problema42 {
