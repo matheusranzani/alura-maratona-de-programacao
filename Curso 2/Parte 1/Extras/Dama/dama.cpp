@@ -11,7 +11,7 @@ int main() {
     if (X1 == 0) break;
 
     if (!(X1 == X2 && Y1 == Y2)) {
-      if ((X1 == X2 || Y1 == Y2) || (X1 + Y1) == (X2 + Y2) || (X1 - Y1) == X2 - Y2) {
+      if ((X1 == X2 || Y1 == Y2) || (X1 + Y1) == (X2 + Y2) || (X1 - Y1) == (X2 - Y2)) {
         movimentos = 1;
       } else {
         movimentos = 2;
