@@ -8,4 +8,4 @@ Estudos dos cursos de Maratona de Programação da Alura
 ## Certificados de conclusão
 - Os certificados de conclusão dos cursos podem ser acessados nos links listados abaixo:
     - [Certificado curso 1](https://cursos.alura.com.br/certificate/ea8e3412-3060-4252-831c-1fe5a6164fb4?lang=pt_BR)
-    - [Certificado curso 2]()
+    - [Certificado curso 2](https://cursos.alura.com.br/certificate/b94c11a6-2353-4886-8bc9-4b66c0d44e69?lang=pt_BR)
